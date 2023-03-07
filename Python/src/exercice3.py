@@ -1,6 +1,5 @@
 import json
-import os
-import time
+
 
 class Materiel:
     def __init__(self, type, numero_serie):
