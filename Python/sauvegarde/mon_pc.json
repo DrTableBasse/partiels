@@ -1,0 +1,14 @@
+{
+    "type": "PC Portable",
+    "numero_serie": "345678",
+    "ecran": {
+        "type": "Ecran LCD",
+        "numero_serie": "789012",
+        "taille_ecran": "24 pouces"
+    },
+    "clavier": {
+        "type": "Clavier AZERTY",
+        "numero_serie": "123456",
+        "nb_touches": 105
+    }
+}
