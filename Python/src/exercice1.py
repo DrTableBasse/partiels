@@ -1,6 +1,7 @@
 def seuil(P,T):
     N = 0
-    print("|    P    |    N    |")
+    print("|    P       |    N     |")
+    print("|------------|----------|")
     while P < 1000:
         
         P = P * T
@@ -8,7 +9,7 @@ def seuil(P,T):
             break
         N = N+1
         
-        print("|  ",round(P,2),"|     ",round(N,2),"|")
+        print("|  {:<8.2f}  |  {:<6}  |".format(P, N))
     
     return N
 

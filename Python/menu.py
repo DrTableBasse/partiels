@@ -16,7 +16,7 @@ def main_menu():
     print("Pour accéder à l'exercice 1, taper 1\n")
     print("Pour accéder à l'exercice 2, taper 2\n")
     print("Pour accéder à l'exercice 3, taper 3\n")
-    print("Sinon taper 0 pour quitter le progarmme\n")
+    print("Sinon taper 0 pour quitter le programme\n")
 
 
     choix = input("Entrer votre choix ici : ")
